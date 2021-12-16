@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/uofthacks-transparent.png" height="100" width="100"/>
+  <img src="/images/uofthacks-transparent.png" height="150" width="150"/>
   <h1>UofTHacks IX</h1>
   <h4>Dream • Build • Inspire</h4>
 </div>
