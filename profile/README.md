@@ -6,8 +6,9 @@
 
 <h1>Contents</h1>
 
-- <a href="#introduction"><h3>Introduction</h3></a>
-- <a href="#technologies"><h3>Technologies</h3></a>
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+- [Meet our Team](#meet-our-team)
 
 # Introduction
 
@@ -37,6 +38,9 @@ Below is a table that provides an overview of the technologies we are currently 
   </tr>
  </table>
 </div>
+
+# Meet our Team
+
 
 <!--
 
