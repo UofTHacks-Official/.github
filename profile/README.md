@@ -6,16 +6,16 @@
 
 <h1>Contents</h1>
 
-- [Introdution](#introduction)
-- [Technologies](#technologies)
-
+- <a href="#introduction"><h3>Introduction</h3></a>
+- <a href="#technologies"><h3>Technologies</h3></a>
 
 # Introduction
 
 
 # Technologies
 
-<img src="/images/Mechanical-Keyboard-Moose.svg" alt="Mechanical Keyboard Moose" height="200" width="200" />
+<div align="center" id="technologies">
+ <img src="/images/Mechanical-Keyboard-Moose.svg" alt="Mechanical Keyboard Moose" height="200" width="200" />
 
 Below is a table that provides an overview of the technologies we are currently working with.
 
@@ -36,6 +36,7 @@ Below is a table that provides an overview of the technologies we are currently 
     <td><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></td>
   </tr>
  </table>
+</div>
 
 <!--
 
