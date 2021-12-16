@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="/images/uofthacks-transparent.png" height="100" width="100"/>
+  <h1>UofTHacks IX</h1>
+  <h4>Dream • Build • Inspire</h4>
+</div>
 
+<h1>Contents</h1>
+
+- [Introdution](#introduction)
+
+
+# Introduction
 <!--
 
 **Here are some ideas to get you started:**
