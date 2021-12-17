@@ -29,7 +29,7 @@ Below is a table that provides an overview of the technologies we are currently 
     <th>Back-End</th>
     <th>Infrastructure</th>
   </tr>
-  <tr>
+  <tr> 
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/></td>
     <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
     <td><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" /></td>
@@ -44,7 +44,7 @@ Below is a table that provides an overview of the technologies we are currently 
 
 <h1 id="meet-our-team">👋 Meet our Team</h1>
 
-<h3 align="center">Web Dev Team</h3>
+<h3 align="center">👨‍💻 Web Dev Team</h3>
 <table align="center">
   <tr align="center">
     <td>
