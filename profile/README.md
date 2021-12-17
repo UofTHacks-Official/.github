@@ -41,6 +41,44 @@ Below is a table that provides an overview of the technologies we are currently 
 
 # Meet our Team
 
+<h3 align="center">Web Dev Team</h3>
+<table align="center">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/ShernanJ"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="100" height="100" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/AmyyyCao"><img src="https://avatars.githubusercontent.com/u/58006151?v=4" alt="AmyyyCao" width="100" height="100" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/lake-of-ash"><img src="https://avatars.githubusercontent.com/u/3652387?v=4" alt="lake-of-ash" width="100" height="100" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/simonchenwastaken"><img src="https://avatars.githubusercontent.com/u/35227285?v=4" alt="Alluq" width="100" height="100"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/Alluq"><img src="https://avatars.githubusercontent.com/u/39013427?v=4" alt="Alluq" width="100" height="100"/></a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <p>Shernan Javier</p>
+    </td>
+    <td>
+      <p>Amy Cao</p>
+    </td>
+    <td>
+      <p>Lake Ash</p>
+    </td>
+    <td>
+      <p>Simon Chen</p>
+    </td>
+    <td>
+      <p>Allen Lu</p>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 
