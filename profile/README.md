@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/uofthacks-transparent.png" height="150" width="150"/>
+  <img src="/images/OfficialLogo.png" height="197" width="318"/>
   <h1>UofTHacks IX</h1>
   <h4>💭 Dream  •  🔨 Build  •  ✨ Inspire</h4>
   <a href="https://www.uofthacks.com/"><p>www.uofthacks.com</p></a>
