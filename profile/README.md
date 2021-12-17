@@ -1,19 +1,22 @@
 <div align="center">
   <img src="/images/uofthacks-transparent.png" height="150" width="150"/>
   <h1>UofTHacks IX</h1>
-  <h4>Dream • Build • Inspire</h4>
+  <h4>💭 Dream  •  🔨 Build  •  ✨ Inspire</h4>
+  <a href="https://www.uofthacks.com/"><p>www.uofthacks.com</p></a>
 </div>
 
-<h1>Contents</h1>
+<h1>📖 Contents</h1>
 
-- [Introduction](#introduction)
-- [Technologies](#technologies)
-- [Meet our Team](#meet-our-team)
+- 🗨️ [Introduction](#introduction)
+- 🔧 [Technologies](#technologies)
+- 👋 [Meet our Team](#meet-our-team)
 
-# Introduction
+<h1 id="introduction">🗨️ Introduction</h1>
+
+For the 9th consecutive year, Canada’s first student-run hackathon, UofTHacks, will bring together 500 innovators, technology enthusiasts, designers, and entrepreneurs in a thrilling competition where they will embark on a journey to build unique and impactful projects.
 
 
-# Technologies
+<h1 id="technologies">🔧 Technologies</h1>
 
 <div align="center" id="technologies">
  <img src="/images/Mechanical-Keyboard-Moose.svg" alt="Mechanical Keyboard Moose" height="200" width="200" />
@@ -39,7 +42,7 @@ Below is a table that provides an overview of the technologies we are currently 
  </table>
 </div>
 
-# Meet our Team
+<h1 id="meet-our-team">👋 Meet our Team</h1>
 
 <h3 align="center">Web Dev Team</h3>
 <table align="center">
