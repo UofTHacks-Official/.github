@@ -48,19 +48,19 @@ Below is a table that provides an overview of the technologies we are currently 
 <table align="center">
   <tr align="center">
     <td>
-      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="140" height="140" /></a>
+      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="140" /></a>
     </td>
     <td>
-      <a href="https://github.com/AmyyyCao" target="_blank"><img src="https://avatars.githubusercontent.com/u/58006151?v=4" alt="AmyyyCao" width="140" height="140" /></a>
+      <a href="https://github.com/AmyyyCao" target="_blank"><img src="https://avatars.githubusercontent.com/u/58006151?v=4" alt="AmyyyCao" width="140" /></a>
     </td>
     <td>
-      <a href="https://github.com/lake-of-ash" target="_blank"><img src="https://avatars.githubusercontent.com/u/3652387?v=4" alt="lake-of-ash" width="140" height="140" /></a>
+      <a href="https://github.com/lake-of-ash" target="_blank"><img src="https://avatars.githubusercontent.com/u/3652387?v=4" alt="lake-of-ash" width="140" /></a>
     </td>
     <td>
-      <a href="https://github.com/simonchenwastaken" target="_blank"><img src="https://avatars.githubusercontent.com/u/35227285?v=4" alt="simonchenwastaken" width="140" height="140"/></a>
+      <a href="https://github.com/simonchenwastaken" target="_blank"><img src="https://avatars.githubusercontent.com/u/35227285?v=4" alt="simonchenwastaken" width="140"/></a>
     </td>
     <td>
-      <a href="https://github.com/Alluq" target="_blank"><img src="https://avatars.githubusercontent.com/u/39013427?v=4" alt="Alluq" width="140" height="140"/></a>
+      <a href="https://github.com/Alluq" target="_blank"><img src="https://avatars.githubusercontent.com/u/39013427?v=4" alt="Alluq" width="140"/></a>
     </td>
   </tr>
   <tr align="center">
@@ -89,6 +89,8 @@ Below is a table that provides an overview of the technologies we are currently 
 
 
 <!--
+
+Link for easy emojis: https://getemoji.com/
 
 **Here are some ideas to get you started:**
 
