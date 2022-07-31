@@ -82,7 +82,7 @@ Below is a table that provides an overview of the technologies we are currently 
     </td>
      <td>
      <b><p>Sean Kim</p></b>
-      <a href="https://github.com/skim1601" target="_blank"><img src="https://img.shields.io/badge/-Alluq-%2325222E?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/skim1601" target="_blank"><img src="https://img.shields.io/badge/-skim1601-%2325222E?style=flat-square&logo=github" /></a>
     </td>
   </tr>
 </table>
