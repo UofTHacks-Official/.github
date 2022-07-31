@@ -80,6 +80,10 @@ Below is a table that provides an overview of the technologies we are currently 
       <b><p>Allen Lu</p></b>
       <a href="https://github.com/Alluq" target="_blank"><img src="https://img.shields.io/badge/-Alluq-%2325222E?style=flat-square&logo=github" /></a>
     </td>
+     <td>
+     <b><p>Sean Kim</p></b>
+      <a href="https://github.com/skim1601" target="_blank"><img src="https://img.shields.io/badge/-Alluq-%2325222E?style=flat-square&logo=github" /></a>
+    </td>
   </tr>
 </table>
 
