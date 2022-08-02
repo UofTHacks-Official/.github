@@ -72,10 +72,6 @@ Below is a table that provides an overview of the technologies we are currently 
       <a href="https://github.com/ShernanJ" target="_blank"><img src="https://img.shields.io/badge/-ShernanJ-%2325222E?style=flat-square&logo=github" /></a>
     </td>
     <td>
-      <b><p>Amy Cao</p></b>
-      <a href="https://github.com/AmyyyCao" target="_blank"><img src="https://img.shields.io/badge/-AmyyyCao-%2325222E?style=flat-square&logo=github" /></a>
-    </td>
-    <td>
       <b><p>Simon Chen</p></b>
       <a href="https://github.com/simonchenwastaken" target="_blank"><img src="https://img.shields.io/badge/-simonchenwastaken-%2325222E?style=flat-square&logo=github" /></a>
     </td>
