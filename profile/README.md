@@ -50,8 +50,6 @@ Below is a table that provides an overview of the technologies we are currently 
     <td>
       <a href="https://github.com/ShernanJ" target="_blank"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="140" /></a>
     </td>
-    <td>
-    </td>
 <!--     <td>
       <a href="https://github.com/lake-of-ash" target="_blank"><img src="https://avatars.githubusercontent.com/u/3652387?v=4" alt="lake-of-ash" width="140" /></a>
     </td> -->
