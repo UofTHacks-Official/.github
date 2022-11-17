@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/images/OfficialLogo.png" height="197" width="318"/>
-  <h1>UofTHacks IX</h1>
+  <h1>UofTHacks X</h1>
   <h4>💭 Dream  •  🔨 Build  •  ✨ Inspire</h4>
   <a href="https://www.uofthacks.com/"><p>www.uofthacks.com</p></a>
 </div>
@@ -13,7 +13,7 @@
 
 <h1 id="introduction">🗨️ Introduction</h1>
 
-For the 9th consecutive year, Canada’s first student-run hackathon, UofTHacks, will bring together 500 innovators, technology enthusiasts, designers, and entrepreneurs in a thrilling competition where they will embark on a journey to build unique and impactful projects.
+For the 10th consecutive year, Canada’s first student-run hackathon, UofTHacks, will bring together 500 innovators, technology enthusiasts, designers, and entrepreneurs in a thrilling competition where they will embark on a journey to build unique and impactful projects.
 
 
 <h1 id="technologies">🔧 Technologies</h1>
