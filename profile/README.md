@@ -9,7 +9,6 @@
 
 - 🗨️ [Introduction](#introduction)
 - 🔧 [Technologies](#technologies)
-- 👋 [Meet our Team](#meet-our-team)
 
 <h1 id="introduction">🗨️ Introduction</h1>
 
@@ -41,47 +40,6 @@ Below is a table that provides an overview of the technologies we are currently 
   </tr>
  </table>
 </div>
-
-<h1 id="meet-our-team">👋 Meet our Team</h1>
-
-<h3 align="center">👨‍💻 Web Dev Team</h3>
-<table align="center">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="140" /></a>
-    </td>
-<!--     <td>
-      <a href="https://github.com/lake-of-ash" target="_blank"><img src="https://avatars.githubusercontent.com/u/3652387?v=4" alt="lake-of-ash" width="140" /></a>
-    </td> -->
-    <td>
-      <a href="https://github.com/simonchenwastaken" target="_blank"><img src="https://avatars.githubusercontent.com/u/35227285?v=4" alt="simonchenwastaken" width="140"/></a>
-    </td>
-    <td>
-      <a href="https://github.com/Alluq" target="_blank"><img src="https://avatars.githubusercontent.com/u/39013427?v=4" alt="Alluq" width="140"/></a>
-    </td>
-    <td>
-      <a href="https://github.com/skim1601" target="_blank"><img src="https://avatars.githubusercontent.com/skim1601" alt="SK" width="140"/></a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <b><p>Shernan Javier</p></b>
-      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://img.shields.io/badge/-ShernanJ-%2325222E?style=flat-square&logo=github" /></a>
-    </td>
-    <td>
-      <b><p>Simon Chen</p></b>
-      <a href="https://github.com/simonchenwastaken" target="_blank"><img src="https://img.shields.io/badge/-simonchenwastaken-%2325222E?style=flat-square&logo=github" /></a>
-    </td>
-    <td>
-      <b><p>Allen Lu</p></b>
-      <a href="https://github.com/Alluq" target="_blank"><img src="https://img.shields.io/badge/-Alluq-%2325222E?style=flat-square&logo=github" /></a>
-    </td>
-     <td>
-     <b><p>Sean Kim</p></b>
-      <a href="https://github.com/skim1601" target="_blank"><img src="https://img.shields.io/badge/-SKIM1601-%2325222E?style=flat-square&logo=github" alt="" /></a>
-    </td>
-  </tr>
-</table>
 
 
 <!--
