@@ -12,7 +12,7 @@
 
 <h1 id="introduction">🗨️ Introduction</h1>
 
-For the 11th consecutive year, Canada’s first student-run hackathon, UofTHacks, will bring together 500 innovators, technology enthusiasts, designers, and entrepreneurs in a thrilling competition where they will embark on a journey to build unique and impactful projects.
+For the 13th consecutive year, Canada’s first student-run hackathon, UofTHacks, will bring together 500 innovators, technology enthusiasts, designers, and entrepreneurs in a thrilling competition where they will embark on a journey to build unique and impactful projects.
 
 
 <h1 id="technologies">🔧 Technologies</h1>
